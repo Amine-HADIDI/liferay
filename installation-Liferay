@@ -1,0 +1,19 @@
+1 - INSTALLER LIFERAY
+1.1Télécharger Liferay
+Liferay peut être téléchargé à l'adresse suivante :
+• https://www.liferay.com/downloads/liferay-portal/available-releases
+Choisissez la version Liferay 6.2 « Bundled with Tomcat »
+
+2- Installer Liferay et démarrer le serveur
+Une fois téléchargée, l'archive .zip devra être décompressée quelque part sur votre poste de travail,
+
+• Explorez les répertoires extraits et rendez-vous dans le répertoire :
+liferay-portal-6.2.0-ce-b1/tomcat-7.0.40/bin
+
+ Puis exécutez le script « startup.bat » (Windows) ou « startup.sh » (Linux/Mac). Pour les systèmes
+d'exploitation Linux et Mac, assurez-vous d'avoir préalablement installé la JDK de Java.
+
+Si tout se déroule comme prévu, votre navigateur devrait s'ouvrir au bout d'un certain temps
+(typiquement moins d'une minute pour un ordinateur récent) et vous présenter l'écran qui vous
+permettra de compléter l'installation. Les informations suivantes vous seront demandées :
+
